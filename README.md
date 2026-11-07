@@ -1,1 +1,7 @@
 # ESP8266-Jammer
+
+CE  - D1
+
+CSN - D2
+
+SCK, MISO, MOSI - D5, D6, D7
